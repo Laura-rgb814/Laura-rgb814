@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm laura
+I'm currently learning
+You can reach me via email:gitaulaura47@gmail.com
 
 <!--
 **Laura-rgb814/Laura-rgb814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
